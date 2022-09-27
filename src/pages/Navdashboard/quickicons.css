@@ -1,0 +1,22 @@
+.quickicons{
+    margin-bottom: 20px;
+    height: 94px;
+    border-radius: 0 !important;
+    border: 0;
+}
+.quickicons-last{
+    height: 94px;
+    border-radius: 0 !important;
+    border: 0;
+}
+
+.quickLinks{
+    text-decoration: none !important;
+}
+.cardBody{
+    background: #f6f6f6;
+    border-radius: 0;
+}
+.cardBody:hover{
+    background: #fff;
+}

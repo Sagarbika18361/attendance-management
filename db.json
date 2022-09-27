@@ -1,0 +1,395 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 3,
+      "fullname": "Josh Backen",
+      "email": "jbacken2@irs.gov",
+      "gender": "Male",
+      "phone": "498-210-3501",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "fullname": "Karmen Bounde",
+      "email": "kbounde3@dagondesign.com",
+      "gender": "Female",
+      "phone": "554-355-5521",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "fullname": "Henry Tomasicchio",
+      "email": "htomasicchio4@squidoo.com",
+      "gender": "Male",
+      "phone": "241-374-6928",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "fullname": "Demetris Golton",
+      "email": "dgolton6@intel.com",
+      "gender": "Female",
+      "phone": "432-472-9245",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "fullname": "Glenine Vern",
+      "email": "gvern8@bbb.org",
+      "gender": "Female",
+      "phone": "441-114-8134",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "fullname": "Ebba Demcak",
+      "email": "edemcak9@yandex.ru",
+      "gender": "Agender",
+      "phone": "317-466-6563",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "fullname": "Petronilla Langhor",
+      "email": "planghora@weibo.com",
+      "gender": "Female",
+      "phone": "643-262-5366",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "fullname": "Ianthe Kornilyev",
+      "email": "ikornilyevb@narod.ru",
+      "gender": "Female",
+      "phone": "911-689-6646",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "fullname": "Tibold Layton",
+      "email": "tlaytonc@sfgate.com",
+      "gender": "Male",
+      "phone": "786-972-8807",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "fullname": "Rich Peealess",
+      "email": "rpeealessd@buzzfeed.com",
+      "gender": "Male",
+      "phone": "651-299-2339",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "fullname": "Cord Yarnton",
+      "email": "cyarntone@utexas.edu",
+      "gender": "Male",
+      "phone": "944-239-9139",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "fullname": "Lita Matissoff",
+      "email": "lmatissofff@redcross.org",
+      "gender": "Female",
+      "phone": "451-587-7659",
+      "status": "active"
+    },
+    {
+      "id": 17,
+      "fullname": "Terrance Jaquest",
+      "email": "tjaquestg@51.la",
+      "gender": "Male",
+      "phone": "143-225-2681",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "fullname": "Urban McMurty",
+      "email": "umcmurtyh@wikipedia.org",
+      "gender": "Male",
+      "phone": "480-292-7649",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "fullname": "Lucio Banck",
+      "email": "lbancki@walmart.com",
+      "gender": "Male",
+      "phone": "139-835-9451",
+      "status": "active"
+    },
+    {
+      "id": 20,
+      "fullname": "Gordan Jagels",
+      "email": "gjagelsj@umn.edu",
+      "gender": "Male",
+      "phone": "667-568-3200",
+      "status": "active"
+    },
+    {
+      "id": 21,
+      "fullname": "Sibyl Pimbley",
+      "email": "spimbleyk@jiathis.com",
+      "gender": "Female",
+      "phone": "639-827-0533",
+      "status": "active"
+    },
+    {
+      "id": 22,
+      "fullname": "Cissy McMakin",
+      "email": "cmcmakinl@admin.ch",
+      "gender": "Female",
+      "phone": "232-645-3925",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "fullname": "Bobbi Kingscote",
+      "email": "bkingscotem@aboutads.info",
+      "gender": "Female",
+      "phone": "575-983-3187",
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "fullname": "Darrick Le Brom",
+      "email": "dlen@fema.gov",
+      "gender": "Male",
+      "phone": "960-824-9451",
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "fullname": "Clemmie Kezourec",
+      "email": "ckezoureco@squarespace.com",
+      "gender": "Female",
+      "phone": "321-555-3339",
+      "status": "active"
+    },
+    {
+      "id": 26,
+      "fullname": "Opaline Ciepluch",
+      "email": "ociepluchp@is.gd",
+      "gender": "Genderqueer",
+      "phone": "489-906-1859",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "fullname": "Thadeus Harbertson",
+      "email": "tharbertsonq@stumbleupon.com",
+      "gender": "Male",
+      "phone": "877-469-0965",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "fullname": "Renie Boddymead",
+      "email": "rboddymeadr@bandcamp.com",
+      "gender": "Female",
+      "phone": "913-931-1606",
+      "status": "active"
+    },
+    {
+      "id": 29,
+      "fullname": "Toinette Metrick",
+      "email": "tmetricks@deviantart.com",
+      "gender": "Female",
+      "phone": "662-801-4811",
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "fullname": "Brandy Voden",
+      "email": "bvodent@fotki.com",
+      "gender": "Male",
+      "phone": "741-500-9501",
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "fullname": "Harlin Haverson",
+      "email": "hhaversonu@boston.com",
+      "gender": "Male",
+      "phone": "460-661-8809",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "fullname": "Bertina Bayle",
+      "email": "bbaylev@mayoclinic.com",
+      "gender": "Female",
+      "phone": "344-301-8051",
+      "status": "active"
+    },
+    {
+      "id": 33,
+      "fullname": "Chad Cato",
+      "email": "ccatow@house.gov",
+      "gender": "Male",
+      "phone": "941-427-6321",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "fullname": "Osbert Tanslie",
+      "email": "otansliex@g.co",
+      "gender": "Male",
+      "phone": "933-132-9980",
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "fullname": "Edie Billingsley",
+      "email": "ebillingsleyy@furl.net",
+      "gender": "Female",
+      "phone": "165-701-8100",
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "fullname": "Fonz MacCartair",
+      "email": "fmaccartairz@tmall.com",
+      "gender": "Male",
+      "phone": "724-928-9354",
+      "status": "active"
+    },
+    {
+      "id": 37,
+      "fullname": "Lucinda Zellick",
+      "email": "lzellick10@wiley.com",
+      "gender": "Female",
+      "phone": "585-995-3192",
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "fullname": "Hilly Bilbery",
+      "email": "hbilbery11@google.cn",
+      "gender": "Male",
+      "phone": "225-545-2411",
+      "status": "active"
+    },
+    {
+      "id": 39,
+      "fullname": "Rheba Worrall",
+      "email": "rworrall12@timesonline.co.uk",
+      "gender": "Female",
+      "phone": "706-198-0685",
+      "status": "active"
+    },
+    {
+      "id": 40,
+      "fullname": "Gale Lotwich",
+      "email": "glotwich13@goo.gl",
+      "gender": "Female",
+      "phone": "136-109-5125",
+      "status": "active"
+    },
+    {
+      "id": 41,
+      "fullname": "Lara Longforth",
+      "email": "llongforth14@people.com.cn",
+      "gender": "Female",
+      "phone": "569-947-8232",
+      "status": "active"
+    },
+    {
+      "id": 42,
+      "fullname": "Woodie Demanche",
+      "email": "wdemanche15@xinhuanet.com",
+      "gender": "Male",
+      "phone": "491-176-5748",
+      "status": "active"
+    },
+    {
+      "id": 43,
+      "fullname": "Matti Briance",
+      "email": "mbriance16@google.cn",
+      "gender": "Female",
+      "phone": "706-942-3865",
+      "status": "inactive"
+    },
+    {
+      "id": 44,
+      "fullname": "Tremaine Luxon",
+      "email": "tluxon17@spiegel.de",
+      "gender": "Male",
+      "phone": "287-439-2931",
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "fullname": "Karlotte Burnapp",
+      "email": "kburnapp18@infoseek.co.jp",
+      "gender": "Female",
+      "phone": "180-750-8532",
+      "status": "inactive"
+    },
+    {
+      "id": 46,
+      "fullname": "Ludwig Basketter",
+      "email": "lbasketter19@addtoany.com",
+      "gender": "Male",
+      "phone": "658-181-0844",
+      "status": "active"
+    },
+    {
+      "id": 47,
+      "fullname": "Timmy Folds",
+      "email": "tfolds1a@zdnet.com",
+      "gender": "Male",
+      "phone": "288-460-5915",
+      "status": "active"
+    },
+    {
+      "id": 48,
+      "fullname": "Bert Cussen",
+      "email": "bcussen1b@icq.com",
+      "gender": "Male",
+      "phone": "857-815-8422",
+      "status": "active"
+    },
+    {
+      "id": 49,
+      "fullname": "Amalea Bysshe",
+      "email": "abysshe1c@yahoo.com",
+      "gender": "Female",
+      "phone": "272-376-7912",
+      "status": "inactive"
+    },
+    {
+      "id": 50,
+      "fullname": "Veronica Colthard",
+      "email": "vcolthard1d@devhub.com",
+      "gender": "Female",
+      "phone": "269-784-3191",
+      "status": "inactive"
+    },
+    {
+      "id": 51,
+      "fullname": "Elle Middlemist",
+      "email": "emiddlemist1e@google.com.br",
+      "gender": "Female",
+      "phone": "677-743-5595",
+      "status": "inactive"
+    },
+    {
+      "id": 52,
+      "fullname": "Anthiathia Calvey",
+      "email": "acalvey1f@people.com.cn",
+      "gender": "Female",
+      "phone": "664-654-0737",
+      "status": "inactive"
+    }
+  ]
+}

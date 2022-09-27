@@ -1,0 +1,24 @@
+
+.drpanchor{
+    width: 100%;
+    background: white;
+    color: black;
+}
+.dropdown-toggle::after{
+    display: inline-block;
+    margin-left: 73px;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+.drpanchor:hover{
+    background-color: white;
+    color: black;
+}
+.drpanchor:active{
+    background-color: white;
+    color: black;
+}

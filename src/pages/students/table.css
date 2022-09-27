@@ -1,0 +1,21 @@
+
+.pointer{
+  cursor: pointer;
+}
+.pen{
+  color: #0d6efd !important;
+}
+thead th {
+  position: sticky;
+  top: 0;
+}
+
+.stuTableDiv table tbody::-webkit-scrollbar{
+  display : none !important;
+}
+
+.stuTableDiv table tbody{
+  max-height: 5rem  !important;
+  -ms-overflow-style: none !important;
+  scrollbar-width: none !important;
+}
